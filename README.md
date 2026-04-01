@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @manjeetrwt
+- 👋 Hi, I’m Manjeet Rawat
 - 👀 I’m interested in Exploring data and playing with visuals
 - 🌱 I’m currently learning Data Analyst
 - 💞️ I’m looking to collaborate on 
