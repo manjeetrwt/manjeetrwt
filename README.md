@@ -1,6 +1,4 @@
-src="<img align="right" alt="Techy Guy Coding" width="350" src="https://user-images.githubusercontent.com/74038190/212284100-5611804c-53f5-4bea-a22d-0a592e400047.gif">">
-">
-">
+<img align="right" alt="Techy Guy Coding" width="350" src="https://www.vecteezy.com/vector-art/23074110-the-video-editor-program-is-displayed-on-the-computer-the-display-shows-the-application-for-editing-video-clips-film-footage-montage-clip-editing-software-interface-creating-visual-effects-vfx">
 # 💫 About Me:
 - 👋 Hi, I’m Manjeet Rawat<br>- 👀 I’m interested in Exploring data and playing with visuals<br>- 🌱 I’m currently learning Data Analyst<br>- 💞️ I’m looking to collaborate on <br>- 📫 How to reach me rwtmanjeet686@gmail.com<br>- 😄 Pronouns: He/Him<br>- ⚡ Fun fact: Minimalist design, maximalist performance.
 
