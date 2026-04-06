@@ -1,4 +1,4 @@
-<img align="right" alt="Techy Guy Coding" width="350" src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif">
+<img align="right" alt="Techy Guy Coding" width="350" src="https://img.freepik.com/premium-photo/editor-display-video-editing-color-grading-upload-content-social-media-worldwide-isolated_660230-87775.jpg?w=360">
 # 💫 About Me:
 - 👋 Hi, I’m Manjeet Rawat<br>- 👀 I’m interested in Exploring data and playing with visuals<br>- 🌱 I’m currently learning Data Analyst<br>- 💞️ I’m looking to collaborate on <br>- 📫 How to reach me rwtmanjeet686@gmail.com<br>- 😄 Pronouns: He/Him<br>- ⚡ Fun fact: Minimalist design, maximalist performance.
 
