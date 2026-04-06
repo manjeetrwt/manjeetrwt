@@ -1,4 +1,4 @@
-<img align="right" alt="Techy Guy Coding" width="350" src="<img width="525" height="350" alt="image" src="https://github.com/user-attachments/assets/5f4366a5-cdd3-449f-9640-9c3d8487a5e5" />
+<img  src="<img width="525" height="350" alt="image" src="https://github.com/user-attachments/assets/5f4366a5-cdd3-449f-9640-9c3d8487a5e5" />
 ">
 ">
 # 💫 About Me:
