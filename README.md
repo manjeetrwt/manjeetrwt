@@ -1,4 +1,5 @@
-<img align="right" alt="Techy Guy Coding" width="350" src="<img width="2000" height="1496" alt="https://pngtree.com/freepng/video-editor-at-work-professional-editing-setup_21033698.html" />
+<img align="right" alt="Techy Guy Coding" width="350" src="<img width="525" height="350" alt="image" src="https://github.com/user-attachments/assets/5f4366a5-cdd3-449f-9640-9c3d8487a5e5" />
+">
 ">
 # 💫 About Me:
 - 👋 Hi, I’m Manjeet Rawat<br>- 👀 I’m interested in Exploring data and playing with visuals<br>- 🌱 I’m currently learning Data Analyst<br>- 💞️ I’m looking to collaborate on <br>- 📫 How to reach me rwtmanjeet686@gmail.com<br>- 😄 Pronouns: He/Him<br>- ⚡ Fun fact: Minimalist design, maximalist performance.
