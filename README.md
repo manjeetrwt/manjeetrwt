@@ -1,6 +1,6 @@
 <img align="right" alt="Techy Guy Coding" width="350" src="https://static.vecteezy.com/system/resources/thumbnails/000/335/992/small/office-worker.jpg"/>
 # 💫 About Me:
-- 👋 Hi, I’m Manjeet Rawat<br>- 👀 I’m interested in Exploring data and playing with visuals<br>- 🌱 I’m currently learning Data Analyst<br>- 💞️ I’m looking to collaborate on <br>- 📫 How to reach me rwtmanjeet686@gmail.com<br>- 😄 Pronouns: He/Him<br>- ⚡ Fun fact: Minimalist design, maximalist performance.
+- 👋 Hi, I’m Manjeet Rawat<br>- 👀 I’m interested in Exploring data and playing with visuals<br>- 🌱 I’m currently learning Data Analyst<br>- 💞️ I’m looking to collaborate on LinkedIn <br>- 📫 How to reach me rwtmanjeet686@gmail.com<br>- 😄 Pronouns: He/Him<br>- ⚡ Fun fact: Minimalist design, maximalist performance.
 
 
 ## 🌐 Socials:
